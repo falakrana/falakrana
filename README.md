@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Falak  
 
-<!--
-**falakrana/falakrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 Computer Science Student  
+- 🤖 Machine Learning Enthusiast  
+- 📊 Data Science Learner  
+- 🧠 Working with Neural Networks  
+- 💻 Programming: Java & Python  
 
-Here are some ideas to get you started:
+### 🔥 My Interests  
+- AI & Deep Learning  
+- Data Science & Analytics  
+- Hackathons & Problem-Solving  
+- Automotives, Sports, Trading & Finance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me  
+- 📧 Email: ranafalak18@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/falak-rana-125520221/) | 🌐 [Portfolio](https://my-portfolio2-lime-phi.vercel.app/)  
+
+### 💻 LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/falakrana_30?theme=dark&font=Montserrat&ext=heatmap)  
+
+
+### 📊 GitHub Stats  
+![Falak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Falak123&show_icons=true&theme=radical)  
+
+### 💡 Fun Fact  
+I love exploring new AI technologies!🚀  
