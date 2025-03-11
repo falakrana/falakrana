@@ -22,7 +22,7 @@
 
 
 ### 📊 GitHub Stats  
-![Falak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Falak123&show_icons=true&theme=radical)  
+![Falak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=falakrana&show_icons=true&theme=radical)  
 
 ### 💡 Fun Fact  
 I love exploring new AI technologies!🚀  
