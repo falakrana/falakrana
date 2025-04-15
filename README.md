@@ -15,7 +15,7 @@
 
 ### 📬 Connect with Me  
 - 📧 Email: ranafalak18@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/falak-rana-125520221/) | 🌐 [Portfolio](https://my-portfolio2-lime-phi.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/falak-rana-125520221/) | 🌐 [Portfolio](https://falakrana.vercel.app/)  
 
 ### 💻 LeetCode  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/falakrana_30?theme=dark&font=Montserrat&ext=heatmap)  
