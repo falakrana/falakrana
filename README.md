@@ -4,13 +4,13 @@
 - 🎓 Computer Science Student  
 - 🤖 Machine Learning Enthusiast  
 - 📊 Data Science Learner  
-- 🧠 Working with Neural Networks  
-- 💻 Programming: Java & Python  
+- 🧠 Working with Neural Networks and engaging in deep learning
+- 💻 Programming: Python & Java
 
 ### 🔥 My Interests  
 - AI & Deep Learning  
 - Data Science & Analytics  
-- Hackathons & Problem-Solving  
+- Problem-Solving Skills
 - Automotives, Sports, Trading & Finance  
 
 ### 📬 Connect with Me  
