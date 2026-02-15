@@ -1,1 +1,65 @@
-# 👋 Hey, I'm **Falak Rana** 🎓 **Computer Science Engineering Student @ Parul University** 💡 Passionate about crafting intelligent systems with **Machine Learning**, **Generative AI**, and **Full-Stack Development** --- ## 🚀 About Me - 🤖 ML Enthusiast | Full-Stack Developer | Problem Solver - 🧠 Skilled in **Neural Networks, Computer Vision & Generative AI (LangChain, Ollama, Gemini)** - 📊 Experienced in **Data Analysis & Visualization** with Python, Tableau & Excel - 💻 Strong foundation in **Data Structures & Algorithms (DSA)** - 🌱 Currently exploring **AI Agents, MLOps & Advanced Deep Learning** --- ## 🛠️ Tech Stack **Languages:** Python | SQL | Java | JavaScript | HTML | CSS **Frameworks/Libraries:** Flask | FastAPI | Django | React | Node.js | Express.js | Bootstrap | Tailwind **AI & ML:** TensorFlow | PyTorch | Scikit-learn | LangChain | Hugging Face | Ollama **Databases:** MongoDB | MySQL **Visualization:** Tableau | Power BI | Matplotlib | Seaborn **Others:** Git | GitHub | API Integration | DSA --- ## 📜 Certifications - 📊 **Data Science Bootcamp** – Udemy - 📊 **Data Visualization with Tableau** – Udemy - 🗄️ **MySQL** – Cursa - 📈 **Excel** – Coursera --- ## 📬 Let’s Connect 🌐 [Portfolio](https://falakrana.vercel.app/) 📧 [ranafalak18@gmail.com](mailto:ranafalak18@gmail.com) 💼 [LinkedIn](https://www.linkedin.com/in/falak-rana-125520221/) 🐙 [GitHub](https://github.com/falakrana) 💻 [LeetCode](https://leetcode.com/falakrana_30/) --- ## 📊 My Stats ### 💻 LeetCode Progress ![LeetCode Stats](https://leetcard.jacoblin.cool/falakrana_30?theme=dark&font=Montserrat&ext=heatmap) ### 📈 GitHub Overview ![Falak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=falakrana&show_icons=true&theme=radical) --- ## 💡 Fun Fact ⚡ I love experimenting with **AI technologies**, building cool projects, and exploring how intelligent systems can transform the future. 🚀 --- ✨ *“Code. Learn. Innovate. Repeat.”*
+# 👋 Hey, I'm **Falak Rana**
+
+🎓 **Computer Science Engineering Student @ Parul University**
+💡 Passionate about building intelligent, data-driven applications using **Machine Learning, Artificial Intelligence, and Full‑Stack Development**
+
+---
+
+## 🚀 About Me
+
+* 🤖 **Machine Learning & AI Developer** focused on real‑world problem solving
+* 💻 Experienced in **Full‑Stack Development (MERN & Flask‑based systems)**
+* 🧠 Strong knowledge of **Neural Networks, Computer Vision, and Deep Learning**
+* 📊 Skilled in **Data Analysis, Data Cleaning, and Visualization** using Python, Tableau, and Excel
+* 🗄️ Core interests in **Machine Learning, Database Management Systems, and AI‑Powered Applications**
+* 🌱 Currently exploring **AI Agents, MLOps, Generative AI, and Scalable ML Systems**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python | SQL | Java | JavaScript | HTML | CSS
+**Frameworks & Tools:** Flask | FastAPI | React | Node.js | Express.js | Bootstrap | Tailwind
+**AI & ML:** TensorFlow | PyTorch | Scikit‑learn | Hugging Face | LangChain | Gemini | Ollama
+**Databases:** MongoDB | MySQL
+**Visualization:** Tableau | Power BI | Matplotlib | Seaborn
+**Other Skills:** Git | GitHub | REST APIs | Data Structures & Algorithms (DSA)
+
+---
+
+## 📌 Featured Project Areas
+
+* 🤖 Computer Vision & Deep Learning Applications
+* 📊 Predictive Analytics & ML‑based Prediction Systems
+* 🧠 Generative AI & AI‑Agent Based Applications
+* 🌐 Full‑Stack AI‑Powered Web Applications (Flask / MERN)
+
+---
+
+## 📜 Certifications
+
+* 📊 **Complete Data Science Bootcamp** – Udemy
+* 📊 **Data Visualization with Tableau** – Udemy
+* 🗄️ **MySQL Certification** – Cursa
+* 📈 **Excel Certification** – Coursera
+* 🧠 **Fundamentals of Computer Vision** – Microsoft Learn
+
+---
+
+## 📬 Let’s Connect
+
+🌐 Portfolio: [https://falakrana.vercel.app/](https://falakrana.vercel.app/)
+📧 Email: [ranafalak18@gmail.com](mailto:ranafalak18@gmail.com)
+💼 LinkedIn: [https://www.linkedin.com/in/falak-rana-125520221/](https://www.linkedin.com/in/falak-rana-125520221/)
+🐙 GitHub: [https://github.com/falakrana](https://github.com/falakrana)
+💻 LeetCode: [https://leetcode.com/falakrana_30/](https://leetcode.com/falakrana_30/)
+
+---
+
+## 💡 Fun Fact
+
+⚡ I enjoy building **AI‑powered applications**, experimenting with emerging technologies, and continuously learning how intelligent systems can solve real‑world challenges.
+
+---
+
+✨ *"Code. Learn. Innovate. Repeat."*
