@@ -36,13 +36,13 @@ My work combines strong engineering fundamentals with practical AI/ML implementa
 ## 💼 Professional Experience
 
 ### **Software Developer Intern** @ Infodesk India Private Limited
-*January 2026 - Present*
-
-- 🏗️ Engineering frontend components for a **pharmaceutical compliance analysis platform** using **React**, **Next.js**, and **TypeScript**
-- 📋 Serving **FDA regulatory validation workflows** for enterprise clients with modern UI frameworks
-- 🦀 Contributing to **Rust-based CLI tooling** for comparing legal documents using **PDF Reading Graphs**
-- 🔍 Building **document intelligence pipelines** that parse, analyze, and validate regulatory submissions
-- 🤝 Collaborating with cross-functional teams to translate complex compliance requirements into robust solutions
+*January 2026 – Present*
+- 🚀 Developing **scalable microservices-based applications** using **.NET (C#)**, designing **RESTful APIs**, and handling **inter-service communication & system integration**
+- 💻 Building responsive **frontend systems** with **React, Next.js, TypeScript**, leveraging **Redux Saga** for async state management
+- ☁️ Managing **cloud-based workflows on AWS**, using **EC2 for scheduled script execution**, **CloudWatch for logging**, and **S3 for storage**
+- 🗄️ Managing **database migrations** and working with **SQL & MongoDB** for efficient data modeling and storage
+- 🦀 Contributing to **high-performance Rust CLI tools** for legal document analysis and comparison
+- 🧩 Delivering **end-to-end features** from development to deployment in compliance-focused enterprise systems
 
 ### **Machine Learning Intern** @ UnifiedMentor
 *January 2025 - April 2025*
