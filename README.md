@@ -35,7 +35,7 @@ My work combines strong engineering fundamentals with practical AI/ML implementa
 
 ## 💼 Professional Experience
 
-### **Software Developer** @ Infodesk India Private Limited
+### **Software Developer Intern** @ Infodesk India Private Limited
 *January 2026 - Present*
 
 - 🏗️ Engineering frontend components for a **pharmaceutical compliance analysis platform** using **React**, **Next.js**, and **TypeScript**
