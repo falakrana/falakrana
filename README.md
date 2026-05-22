@@ -16,7 +16,7 @@
 const falak = {
     role: "Software Developer",
     location: "Vadodara, Gujarat, India",
-    education: "B.Tech CSE @ Parul University (CGPA: 8.28/10.00)",
+    education: "B.Tech CSE @ Parul University (CGPA: 8.34/10.00)",
     currentFocus: ["Distributed Systems", "LLM Security", "AI Agent Design Patterns"],
     workingAt: "Infodesk India Private Limited",
     interests: ["Full-Stack Development", "AI Integration", "System Architecture"]
