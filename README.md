@@ -35,21 +35,38 @@ My work combines strong engineering fundamentals with practical AI/ML implementa
 
 ## 💼 Professional Experience
 
-### **Software Developer Intern** @ Infodesk India Private Limited
-*January 2026 – Present*
-- 🚀 Developing **scalable microservices-based applications** using **.NET (C#)**, designing **RESTful APIs**, and handling **inter-service communication & system integration**
-- 💻 Building responsive **frontend systems** with **React, Next.js, TypeScript**, leveraging **Redux Saga** for async state management
-- ☁️ Managing **cloud-based workflows on AWS**, using **EC2 for scheduled script execution**, **CloudWatch for logging**, and **S3 for storage**
-- 🗄️ Managing **database migrations** and working with **SQL & MongoDB** for efficient data modeling and storage
-- 🦀 Contributing to **high-performance Rust CLI tools** for legal document analysis and comparison
-- 🧩 Delivering **end-to-end features** from development to deployment in compliance-focused enterprise systems
+### **Software Developer** @ JMSCPOS Pvt. Ltd.
+
+_August 2026 – Present | Ahmedabad, India_
+
+- 🚀 Building and maintaining **scalable REST APIs using ASP.NET Core** to support seamless system integration
+- 🗄️ Managing and optimizing **SQL Server databases**, writing complex queries and ensuring data integrity
+- 🔧 Working on enterprise software systems with a focus on **backend development, API design, and database optimization**
+
+### **Software Developer Intern** @ Infodesk India Pvt. Ltd.
+
+_January 2026 – May 2026 | Vadodara, India_
+
+- 🚀 Built **scalable microservices and REST APIs** using **FastAPI, .NET, and Spring Boot**
+- 🗄️ Worked with **SQL and MongoDB** for database management across **AWS infrastructure**
+- 🤖 Designed and integrated a **RAG pipeline** for legal and regulatory document inspection
+- ⚙️ Contributed to backend architecture, system integration, and production-oriented application development
 
 ### **Machine Learning Intern** @ UnifiedMentor
-*January 2025 - April 2025*
 
-- 🚀 Delivered **6 client-ready ML applications** including prediction systems and AI APIs
-- ⚙️ Built **Flask-based AI services** to expose trained models for real-world use
-- 📈 Optimized models for better accuracy and faster inference
+_January 2025 – April 2025_
+
+- 🚀 Delivered **client-ready machine learning applications** involving prediction systems and AI APIs
+- ⚙️ Built **Flask-based AI services** to expose trained ML models
+- 📈 Worked on model optimization and practical machine learning implementation
+
+### **AI Research Intern** @ Parul University
+
+_June 2024 – January 2025 | Vadodara, India_
+
+- 🔬 Conducted research and experimentation on **machine learning models and architectures**
+- 🧠 Studied architectures including **Transformers and BERT**
+- 🤝 Collaborated as part of a research team to investigate and understand modern ML architectures
 
 ---
 
